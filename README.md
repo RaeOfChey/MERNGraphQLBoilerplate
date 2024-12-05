@@ -55,11 +55,13 @@ To use the application, follow these steps:
 
 **Root Level**
 - `concurrently` (for managing client and server in development mode)
+
 **Client**
 - `react`
 - `react-dom`
 - `react-router-dom`
 - `@apollo/client`
+
 **Server**
 - `express`
 - `apollo-server-express`
