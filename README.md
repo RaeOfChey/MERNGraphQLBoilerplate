@@ -31,7 +31,7 @@ This repository is a boilerplate for creating full-stack applications using the 
 To use the application, follow these steps:
 
 - Step 1: Clone the repository.
-- Step 2: Navigate to the project directory by typing `mern-graphql-boilerplate`.
+- Step 2: Navigate to the project directory by typing `cd MERNGraphQLBoilerplate`.
 - Step 3: Navigate to the root, client, and server directories to install respective dependencies by running `npm install`, `cd client && npm install`, `cd ../server && npm install`.
 - Step 4: Create .env files in the server directory with the following variables:
 
